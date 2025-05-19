@@ -29,7 +29,7 @@ See above for full structure.
 🧩 Framework Design Choices
 ---------------------------
 
-### age Object Model (POM)
+### Page Object Model (POM)
 
 *   Each web page is represented as a JavaScript class.
     
